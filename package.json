@@ -1,5 +1,5 @@
 {
-  "name": "wabt",
+  "name": "wabt-ukassel",
   "description": "JavaScript version of WABT, The WebAssembly Binary Toolkit.",
   "version": "1.0.37",
   "license": "Apache-2.0",
